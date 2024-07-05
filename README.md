@@ -9,7 +9,7 @@
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: IT Student from IIIT Bhopal [2025]<br>
     :email: [dhardubey11@gmail.com](mailto:dhardubey11@gmail.com) <br>
-    :pencil: CV: <a href="[https://drive.google.com/file/d/1xQh66TKfMTMeplRbcNyXWlJ7mrqkGbqR/view?usp=sharing](https://drive.google.com/file/d/1yyGOPhLltBE5yIoZODdCobYMl-c3dZr7/view)">View Resume</a> <br>
+    :pencil: CV: <a href="(https://drive.google.com/file/d/1yyGOPhLltBE5yIoZODdCobYMl-c3dZr7/view)">View Resume</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/vaibhav3101/">LinkedIn Profile</a> <br>
     <br><br>
   </samp>
