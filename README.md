@@ -1,68 +1,27 @@
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+<h1>Hi.</h1>
+<div align="left"><a href="url"><img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="350"></a></div>
 
-# Welcome To My GitHub Profile !
-
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt="Raghav Khullar Typer" />
-</div>
-<br/>
-
-<!--
-- ⌨️ Programming Languages I've used:
-
-<div align="center">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
-</div>
-<-->
-
-<br/>
-
-- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, CI/CD) roles**
-
-<br/><br/>
-
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
-</div>
-<br/>
-
-- 🔭 I’m currently working on: **Java | Python | Selenium | TestNG | Maven | Rest Assured | TeamCity**
-
-- 🌱 I’m currently learning: **Automation | SQL | Java | Python | AWS**
+<br>
+<h4></h4>
+<p>
+  <samp>
+    🧭 Frontend Development<br>
+    :house_with_garden: Currently based in India 🇮🇳<br>
+    :school: IT Student from IIIT Bhopal [2025]<br>
+    :email: [dhardubey11@gmail.com](mailto:dhardubey11@gmail.com) <br>
+    :pencil: CV: <a href="[https://drive.google.com/file/d/1xQh66TKfMTMeplRbcNyXWlJ7mrqkGbqR/view?usp=sharing](https://drive.google.com/file/d/1yyGOPhLltBE5yIoZODdCobYMl-c3dZr7/view)">View Resume</a> <br>
+    :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/vaibhav3101/">LinkedIn Profile</a> <br>
+    <br><br>
+  </samp>
+</p>  
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vaibhavdhar31&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00"> -->
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/vaibhavdhar31"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
 
 
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
-
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-
-- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
-
-- 🤓 Active User at: **GitHub | LinkedIn**
-
-- 📫 How to reach me:
-
-    * [**Drop a Mail**](mailto:raghavkhullar16@gmail.com)
-
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/raghav-khullar/)
-
-    * [**Visit my Website**](https://raghavk16.github.io/)
-    
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
-</div>
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun Facts: 
-
-    * *Besides programming, I've been a [**Technical Content Writer**](https://www.mindbrews.in/author/raghav-khullar/). I'm a **Melophile** for life and love to cook for my friends and family when I'm free.*
-
-    * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
-    
-    * *If you're still reading, why not follow me ?? Let's Connect !!*
+![snake gif](https://github.com/vaibhavdhardub/vaibhavdhardub/blob/output/github-contribution-grid-snake.gif)
