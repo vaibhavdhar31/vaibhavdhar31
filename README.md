@@ -71,7 +71,7 @@
 
 <div align="center">
   <h3><a href="https://subscriptionplan0.netlify.app/">Subscription Plan Project</a></h3>
-  <a href="https://subscriptionplan0.netlify.app/"><img src="https://media.giphy.com/media/3o6Mb8mj0gdoUYFwDK/giphy.gif" width="350"></a>
+  <a href="https://subscriptionplan0.netlify.app/"><img src="https://github.com/user-attachments/assets/5179741f-a010-4f25-b374-0ef560d19376" width="350"></a>
   <p align="center">
     <strong>Description:</strong> A web app to manage and visualize subscription plans.<br>
     <strong>Technologies Used:</strong> React, Node.js<br>
