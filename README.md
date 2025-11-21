@@ -14,7 +14,7 @@
     :house_with_garden: Currently based in India 🇮🇳<br>
     :school: IT Student at IIIT Bhopal [2025]<br>
     :email: <a href="mailto:dhardubey11@gmail.com">dhardubey11@gmail.com</a><br>
-    :pencil: <a href="https://drive.google.com/file/d/1yyGOPhLltBE5yIoZODdCobYMl-c3dZr7/view">View Resume</a><br>
+    :pencil: <a href="https://drive.google.com/file/d/1QjmJsRp8powOrTd13ZATLnffVMkpXO0h/view?usp=sharing">View Resume</a><br>
     :briefcase: <a href="https://www.linkedin.com/in/vaibhav3101/">LinkedIn Profile</a><br>
   </samp>
 </p>  
